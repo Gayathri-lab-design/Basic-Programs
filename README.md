@@ -3,11 +3,6 @@
 This repository contains basic Java programs written and tested using IntelliJ IDEA.
 
 ## Topics Covered
-- Loops
-- Conditionals
-- Arrays
-- Patterns
-- String handling
 - Simple logic-based problems
 
 ## How to Run
